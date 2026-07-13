@@ -5,6 +5,7 @@
 
 ## So what is the 'stochadex' project?
 
+
 It's a simulation engine written in Go which can be used to sample from, and learn computational models for, a whole 'Pokédex' of possible real-world systems.
 
 For software engineers, the stochadex simulation framework abstracts away many of the common features that sampling algorithms have for performing these computations behind a highly-configurable interface.
